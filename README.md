@@ -1,1 +1,2 @@
-# start_git
+# Start Git
+This is the test repo.
